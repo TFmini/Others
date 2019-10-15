@@ -3,11 +3,11 @@ The repository contains some other examples of TFmini(Plus), such as TFmini(Plus
 
 # Other Examples
 
-- [1、How-to-connect-3-TFminis-on-Arduino-DUE-via-UART-v1.0](https://github.com/TFmini/Others/tree/master/5%E3%80%81How-to-connect-3-TFminis-on-Arduino-DUE-via-UART-v1.0)  
+- [1、How-to-connect-3-TFminis-on-Arduino-DUE-via-UART-v1.0](https://github.com/TFmini/Others/tree/master/1%E3%80%81How-to-connect-3-TFminis-on-Arduino-DUE-via-UART-v1.0)  
 
-- [2、Modify TFmini_I2C version Address and Multiple Sensors Linkage Solution](https://github.com/TFmini/Others/tree/master/6%E3%80%81Modify%20TFmini_I2C%20version%20Address%20and%20Multiple%20Sensors%20Linkage%20Solution)
+- [2、Modify TFmini_I2C version Address and Multiple Sensors Linkage Solution](https://github.com/TFmini/Others/tree/master/2%E3%80%81Modify%20TFmini_I2C%20version%20Address%20and%20Multiple%20Sensors%20Linkage%20Solution)
 
-- [3、Reference-Scheme-for-Multiple-TFmini-I2C-Used-in-Arduino](https://github.com/TFmini/Others/tree/master/9%E3%80%81Reference-Scheme-for-Multiple-TFmini-I2C-Used-in-Arduino)
+- [3、Reference-Scheme-for-Multiple-TFmini-I2C-Used-in-Arduino](https://github.com/TFmini/Others/tree/master/3%E3%80%81Reference-Scheme-for-Multiple-TFmini-I2C-Used-in-Arduino)
 
 - [4、The-Computer-Stand-alone-Test Reference-Scheme-of-the-Version-of-TFmini_I²C v1.0](4、The-Computer-Stand-alone-Test-Reference-Scheme-of-the-Version-of-TFmini_I²C-v1.0.pdf)
 
