@@ -29,3 +29,6 @@ The repository contains some other examples of TFmini(Plus), such as TFmini(Plus
 
 - [10、TFmini(Plus)-Switch Value](https://github.com/TFmini/SwitchValueOutput)  
 Switch Value Output of TFmini(Plus)
+
+- [11、TFminiPlus-IIC-Pixhawk](https://github.com/TFmini/TFminiPlus-IIC-Pixhawk)  
+Application of TFmini Plus IIC communication in Pixhawk
